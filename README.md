@@ -12,3 +12,4 @@ adapun list materi yang sudah saya pelajari adalah
 - membuat default select channel
 - membuat Mutex
 - membuat RWMutex
+- membuat Deadlock
