@@ -6,11 +6,14 @@ adapun list materi yang sudah saya pelajari adalah
 - membuat goroutine
 - membuat channel
 - membuat function in out channel
-- membuat bufferd channel
-- membuat range channel
-- membuat select channel
-- membuat default select channel
-- membuat Mutex
-- membuat RWMutex
-- membuat Deadlock
-- membuat Wait Group
+- membuat sync bufferd channel
+- membuat sync range channel
+- membuat sync select channel
+- membuat sync default select channel
+- membuat sync Mutex
+- membuat sync RWMutex
+- membuat sync Deadlock
+- membuat sync Wait Group
+- membuat sync Once
+- membuat sync Pool
+- membuat sync Map
