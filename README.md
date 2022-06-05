@@ -13,3 +13,4 @@ adapun list materi yang sudah saya pelajari adalah
 - membuat Mutex
 - membuat RWMutex
 - membuat Deadlock
+- membuat Wait Group
