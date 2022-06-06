@@ -17,3 +17,5 @@ adapun list materi yang sudah saya pelajari adalah
 - membuat sync Once
 - membuat sync Pool
 - membuat sync Map
+- membuat sync Cond
+- membuat sync Atomic (Mutasi variable bertipe primitif)
